@@ -1,0 +1,9 @@
+.intro__title{
+    margin: 0;
+    font-size: 54px;
+    font-weight: 900;
+    line-height: 1.05;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-bottom: 2.5rem;
+}
