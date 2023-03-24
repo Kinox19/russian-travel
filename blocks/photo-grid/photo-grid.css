@@ -8,3 +8,12 @@
     grid-auto-flow: row;
     grid-auto-rows: 1fr;
 }
+
+@media screen and (max-width: 320px){
+    .photo-grid{
+        margin: 0 auto;
+        grid-template-columns: 1fr;
+        gap: 12px;
+        /* padding: 0 16px 64px 16px; */
+    }
+}

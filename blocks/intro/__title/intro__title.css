@@ -7,3 +7,9 @@
     color: rgba(255, 255, 255, 1);
     margin-bottom: 2.5rem;
 }
+
+@media screen and (max-width: 320px){
+    .intro__title{
+        font-size: 32px;
+    }
+}

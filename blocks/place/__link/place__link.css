@@ -5,3 +5,12 @@
     line-height: 22px;
     color: rgba(255, 255, 255, 1);
 }
+
+.place__link:hover{
+    opacity: 0.8;
+    transition: 0.8%;
+    -webkit-transition: 0.8%;
+    -moz-transition: 0.8%;
+    -ms-transition: 0.8%;
+    -o-transition: 0.8%;
+}
