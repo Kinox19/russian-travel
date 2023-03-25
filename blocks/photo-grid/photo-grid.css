@@ -11,22 +11,20 @@
 
 @media screen and (max-width: 1024px){
     .photo-grid{
-        gap: 14px;
-    }
-}
-
-@media screen and (max-width: 1024px){
-    .photo-grid{
         grid-template-columns: repeat(2, 1fr);
         grid-template-rows: repeat(6, 1fr) ;
-        gap: 16px;
+        gap: 14px;
         padding: 0 24px 88px 24px;
     }
 }
 
+@media screen and (max-width: 768px){
+    .photo-grid{
+        gap: 16px;
+    }
+}
 
-
-@media screen and (max-width: 320px){
+@media screen and (max-width: 680px){
     .photo-grid{
         margin: 0 auto;
         grid-template-columns: 1fr;
