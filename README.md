@@ -19,4 +19,4 @@
 
 **GitHub Pages**
 
-[Проект доступен тут](https://www.yandex.ru)
+[Проект доступен тут](https://kinox19.github.io/russian-travel/)
