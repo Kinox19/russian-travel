@@ -13,18 +13,18 @@
 
 @media screen and (max-width: 1024px) {
     .cover__background{
-        height: 640px;
+        min-height: 640px;
     }
 }
 
 @media screen and (max-width: 768px) {
     .cover__background{
-        height: 480px;
+        min-height: 480px;
     }
 }
 
 @media screen and (max-width: 680px) {
     .cover__background{
-        height: 200px;
+        min-height: 200px;
     }
 }
