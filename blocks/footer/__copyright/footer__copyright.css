@@ -1,8 +1,8 @@
 .footer__copyright{
     margin: 0;
-    font-size: 16px;
+    font-size: 14px;
     font-weight: 400;
-    line-height: 1.12;
+    line-height: 1.14;
     color: rgba(255, 255, 255, 1);
 }
 
@@ -12,5 +12,11 @@
 @media screen and (max-width: 760px) {
     .footer__copyright{
         margin-top: 48px;
+    }
+}
+
+@media screen and (max-width: 680px) {
+    .footer__copyright{
+        line-height: 1;
     }
 }
